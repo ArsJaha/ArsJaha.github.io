@@ -1,0 +1,160 @@
+.navbar {
+  background-color: #960ff3; 
+  text-align: center; 
+
+  
+}
+
+.navbar-list{
+  list-style-type: none; 
+  margin: 0; 
+  padding: 0; 
+  display: flex;
+  justify-content: center; 
+}
+
+
+.navbar-item {
+  margin: 0 1px; 
+      padding: 10px;
+}
+
+.navbar-item a {
+  text-decoration: none; 
+  color: white; 
+  font-size: 20px; 
+  padding: 5px 15px; 
+  border-radius: 5px; 
+  transition: background-color 0.3s ease; 
+}
+
+
+.navbar-item a:hover {
+  background-color: #bc66f8;
+}
+
+body { 
+       background-color:#333;
+	   margin:0;
+}
+.logo{
+	width:100px;
+	height:100px;
+    
+}
+
+.ars{
+	text-align:center;
+	color:black;
+	background-color: white;
+  border-radius: 2500px;
+  width: 1600px;
+  text-align: center;
+  padding: 100px;
+  margin:40px;
+}
+img{ 
+display: block;
+    margin: auto;
+}
+
+.ger{
+	padding:70px;
+	height:550px;
+	width:515px;
+    margin:-10px;
+	
+}
+
+.dog{
+	text-align:right;
+	color:white;
+	
+	
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+}
+
+header {
+  background-color: #960ff3;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3rem;
+}
+
+.pet-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.pet-card {
+  background-color: white;
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+  padding: 10px;
+}
+
+.pet-card img {
+  width: 200px;
+  border-radius: 10px;
+  height:230px;
+  
+}
+
+.pet-card h2 {
+  font-size: 1.5rem;
+  margin-top: 10px;
+  
+}
+
+.pet-card p {
+  font-size: 1rem;
+  color: #666;
+}
+
+button {
+  background-color: #960ff3;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+
+.adopt {
+	text-align:center;
+	color:white;
+}
+
+.con{
+	text-align:center;
+	color:white;
+}
